@@ -24,12 +24,3 @@
 
 ##  Live Demo  
 🔗 **[View Project](https://memo-notes.netlify.app/)**  
-
----
-
-##  Future Enhancements  
-- Implement **search functionality** to quickly find notes  
-- Add **note tagging or categories** for better organization  
-- Enable **note deletion** with a confirmation step  
-- Introduce **rich text editing** or markdown support  
-- Implement **sync across devices** via backend or cloud storage  
